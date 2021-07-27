@@ -1,0 +1,123 @@
+*{
+box-sizing: border-box;
+}
+body{
+  margin: 0;
+  padding: 0;
+  
+}
+
+.container{
+  width: 1100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.uzb{
+  background-color: #0094AF;
+  background-image: linear-gradient(180deg, 
+  #0094AF 0,
+  #0094AF 100px,
+  #CC2429 100px,
+  #CC2429 105px,
+  #fff 105px,
+  #fff 205px,
+  #CC2429 205px,
+  #CC2429 210px,
+  #1EAF38 210px,
+  #1EAF38 310px);
+  width: 500px;
+  height: 310px;
+  margin-top: 30px;
+  border: 1px solid #000;
+}
+.uzb .logo{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100px;
+}
+
+.logo ul{
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  text-align: center;
+}
+
+.star .uch{
+  width: 76px;
+  transform: translateY(16px);
+  margin-left: 27px;
+  
+}
+.star .tort{
+  width: 86px;
+  margin-left: 14px;
+}
+.star .besh{
+  width: 100px;
+  transform: translateY(-17px);
+}
+.oq{
+  color: #fff;
+}
+
+.rus{
+  background-color: #0036A0;
+  background-image: linear-gradient(180deg, 
+  #fff 0,
+  #fff 100px,
+  #0036A0 100px,
+  #0036A0 200px,
+  #ff0000 200px,
+  #ff0000 300px);
+  width: 500px;
+  height: 300px;
+  margin-top: 30px;
+  border: 1px solid #000;
+}
+.germaniya{
+  background-color: #f80909;
+  background-image: linear-gradient(180deg, 
+  #000 0,
+  #000 100px,
+  #ff0000 100px,
+  #ff0000 200px,
+  yellow 200px,
+  yellow 300px);
+  width: 500px;
+  height: 300px;
+  margin-top: 30px;
+  border: 1px solid #000;
+}
+
+
+.fransiya{
+  background-color: #0ccc6c;
+  background-image: linear-gradient(90deg, 
+  #00228F 0,
+  #00228F 166px,
+  #fff 166px,
+  #fff 334px,
+  #ff0000 334px,
+  #ff0000 500px);
+  width: 500px;
+  height: 300px;
+  margin-top: 30px;
+  border: 1px solid #000;
+}
+
+.italiya{
+  background-color: #0ccc6c;
+  background-image: linear-gradient(90deg, 
+  #008142 0,
+  #008142 166px,
+  #fff 166px,
+  #fff 334px,
+  #ff0000 334px,
+  #ff0000 500px);
+  width: 500px;
+  height: 300px;
+  margin-top: 30px;
+  border: 1px solid #000;
+}
